@@ -1,0 +1,5 @@
+User Agent* 
+Disallow: /.settings
+Disallow: /path_to_custom_directory* 
+Disallow: /.*
+Disallow: *147.php

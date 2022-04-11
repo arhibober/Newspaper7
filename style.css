@@ -1,0 +1,41 @@
+a
+{
+  text-decoration: none;
+  color: #804000;
+}
+
+.brown
+{
+  color: #804000;
+  background-color: #ffbb00;
+}
+
+.yellow
+{
+  color:#ffbb00;
+  background-color:#804000;
+}
+
+.table
+{
+  text-align: justify;
+}
+.comic
+{
+  font-family: comic sans ms,areal,tymes new roman;
+}
+.smallcent
+{
+  font-size: 9pt;
+  text-align: center;
+}
+.cent
+{
+  text-align: center;
+}
+.browncent
+{
+  color: #804000;
+  background-color: #ffbb00;
+  text-align: center;
+}
